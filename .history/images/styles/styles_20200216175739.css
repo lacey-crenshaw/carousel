@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+.container {
+    box-shadow: 6px 8px 10px -5px aliceblue;
+}
+
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+    width: 100% !important;
+    height: 75vh;
+}

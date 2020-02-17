@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+    width: 100% !important;
+    height: 75vh;
+}

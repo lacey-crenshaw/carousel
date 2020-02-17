@@ -1,0 +1,22 @@
+body {
+    background-image: url(../ocean-waves.jpg);
+    
+}
+
+h2 p {
+    color: #333;
+}
+
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+    width: 100% !important;
+    height: 75vh;
+}
+
+.carousel-caption {
+    background-color: aliceblue;
+    padding: 20px;
+    margin-bottom: 10px;
+    opacity: 50%;
+}
+
